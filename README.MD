@@ -12,6 +12,6 @@
 10. git checkout main  se cambia a la rama main
 11. git branch -d "nombre de la rama a borrar"
 12. git push    se utiliza en Git para enviar los cambios locales de una rama a un repositorio remoto previamente creado
-13. git commit -am "mensaje" cuando se hace algún tipo de modificación en un archivo en el cual git ya le está dando seguimiento, pueden haceerse los dos pasos de manera simultánea git add . y git commit -m 
+13. git commit -am "mensaje" cuando se hace algún tipo de modificación en un archivo en el cual git ya le está dando seguimiento, pueden hacerse los dos pasos de manera simultánea git add . y git commit -m 
 
 

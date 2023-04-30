@@ -9,3 +9,4 @@
 7- git commit --amend (permite modificar el mensaje del ultimo commit) para salir de este comando pulsa esc:wq!
 8- git checkout -b rama-developer  crea la rama developer y se cambia a ella
 8- git branch 'nombre de la rama a crear'  example developer
+9- git checkout main (cambia a la rama main)
